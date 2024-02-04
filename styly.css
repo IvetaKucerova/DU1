@@ -1,0 +1,38 @@
+article{
+    text-align: left;
+}
+
+.foto{
+    width: 200px;
+    height: 150px;
+    float:left;
+}
+
+div{
+    float:right;
+}
+
+.nadpis{
+    text-align: center;
+    background-image: url(obrazky/frequency-wave-7776034_1280.jpg);
+    padding: 150px 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.podnadpis{
+    float: left;
+}
+
+.menu {
+    display: inline-block;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    margin: 50px;
+}
