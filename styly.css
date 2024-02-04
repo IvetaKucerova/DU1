@@ -33,6 +33,16 @@ div{
     padding: 0%;
 }
 
+.menu2 {
+    display: inline-block;
+    float: right;
+    margin: 0%;
+    padding: 0%;
+}
+
 body {
     margin: 50px;
 }
+ .fotky {
+    margin: 2% 10% 2% 0%;
+ }
